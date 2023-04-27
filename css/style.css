@@ -52,3 +52,8 @@ body{
 .navbar{
   background-color: rgb(26 146 90 / 76%);
 }
+.nobullets{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
