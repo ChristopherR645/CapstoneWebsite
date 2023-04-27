@@ -16,7 +16,7 @@ h1{
 body{
   background-image: url(../images/Spring_Bkg_34_A_generated.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size:cover;
 }
 .zoom{
   transition: transform .2s;
@@ -40,7 +40,7 @@ body{
 }
 .container-medium{
   margin: auto;
-  width: 50%;
+  width: 70%;
 }
 .container-small{
   margin: auto;
@@ -56,4 +56,8 @@ body{
   list-style-type: none;
   margin: 0;
   padding: 0;
+}
+.customlead {
+  font-size: 1.25rem;
+  font-weight: 350;
 }
